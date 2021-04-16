@@ -170,11 +170,20 @@ header .row{
     width: 50%;
 }
 
+.pagos .pink img{
+    position: absolute;
+    width: 100%;
+    top: 8%;
+    left: 18%;
+    transform: rotate(17deg);
+}
+
+
 .pagos-text{
     position: relative;
     width: 50%;
 }
 
 .pagos-text h1{
-    
+
 }
